@@ -20,7 +20,7 @@ const Continents = () => {
                         <div className="flex flex-col gap-4">
                             <div className="flex flex-row items-center gap-2">
                                 <div>
-                                    <span className="text-sm bg-teal-300 text-teal-800 rounded-full px-2 ">continent</span>
+                                    <span className="text-sm bg-teal-300 text-teal-800 rounded-full px-2 py-1 md:py-0 ">continent</span>
                                 </div>
                                 <h1 className=" text-center text-lg">{continent.name}</h1>
                             </div>
