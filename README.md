@@ -6,10 +6,15 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `cd learn-graphql`
+
+
+install all librarys
+### `npm install`
+
 
 Runs Server
+### `npm start`
 
-### `npm test`
 
 
